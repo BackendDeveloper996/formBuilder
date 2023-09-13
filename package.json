@@ -101,7 +101,7 @@
     "test": "npm run-script build"
   },
   "dependencies": {
-    "jquery": ">=3.4.1",
+    "jquery": ">=3.7.0",
     "jquery-ui-sortable": "*"
   },
   "devDependencies": {
